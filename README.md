@@ -1,7 +1,7 @@
 # Python API - Weather Analysis
 
 ## Background
-In this assignment, I was asked to use Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+In this project, I was asked to use Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
 ## Observations
 After carefully running the analyiss following observations were made:
